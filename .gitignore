@@ -1,0 +1,14 @@
+*.class
+*.jar
+*.exe
+.DS_Store
+out/
+build/
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+.classpath
+.project
